@@ -1,0 +1,10 @@
+{
+  
+    "extends": "salt",
+    "rules": {
+        "import/extensions": "off",
+        "no-param-reassign": "off",
+        "consistent-return": "off",
+        "array-callback-return": "off"
+    }
+}
